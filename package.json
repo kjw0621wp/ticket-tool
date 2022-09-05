@@ -1,0 +1,10 @@
+{
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.1.4"
+  }
+}
