@@ -1,9 +1,9 @@
 {
-    "token": "OTM2MTIwOTgwMjE1MDY2Njg0.YfIkmQ.tmoSuueb0RCeTeihwRj2H3w22M8",
+    "token": "여기다가 봇 토큰 넣으세요.",
     "prefix": "'",
 	
-	"category": "970290331935440926",
-	"Support": "969145490706952192",
-	"Admin": "969191677547933726",
-	"Verify": ""
+	"category": "티켓 채널이 카테고리에 생성될 곳",
+	"Support": "지원팀 역할 아이디",
+	"Admin": "관리팀 역할 아이디",
+	"Verify": "인증팀 역할 아이디"
 }
